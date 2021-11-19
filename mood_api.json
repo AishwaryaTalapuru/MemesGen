@@ -1,0 +1,60 @@
+{
+	"mood": {
+		"happy": ["https: //media.giphy.com/media/1zlDnvnoLbJSnjk1UJ/giphy.gif",
+			"A person is said to be in happy mood when he is satisfied, pleased and whimsical",
+			"Being happy never goes out of style",
+			"Definately YESSSS"
+		],
+		"cheerful": ["https://media.giphy.com/media/09KNJKRG3dDbjTrsoj/giphy.gif",
+			"Cheerfulness is what you feel when you're happy and carefree. Cheerfulness is a quality of brightness and optimism, a state that other people can usually sense from your happy whistle or the smile on your face. You could also use words like cheer or happiness to describe this sunny quality",
+			"True beauty is the energy you radiate when you are cheerful and happy",
+			"YESSSS"
+		],
+		"reflective": ["https://media.giphy.com/media/3o6MbesaM2ce3beU7e/giphy.gif",
+			"Characterized by quiet thought or contemplation.",
+			"When you do what's best for you, its not selfish, it is self-care",
+			"Definately YESSSS"
+		],
+		"gloomy": ["https://media.giphy.com/media/gfsQffBnuc6e096brx/giphy.gif",
+			"If people are gloomy, they are unhappy and have no hope",
+			"Music is moonlight in the gloomy night of life",
+			"Definately YESSSS"
+		],
+		"humorous": ["https://media.giphy.com/media/gfsQffBnuc6e096brx/giphy.gif",
+			"If something is humorous it's funny. Humorous is a fine tone for toasting at your friend's wedding, but not so much for the reading of someone's last will",
+			"I love being in that mood, when everything is hilarious",
+			"Definately YESSSS"
+		],
+		"melancholy": ["https://media.giphy.com/media/xT5LMUjG8sT45A0vuw/giphy.gif",
+			"Suggestive or expressive of sadness or depression of mind or spirit sang in a melancholy voice",
+			"Melancholy is sadness that has taken on lightness.",
+			"HELL Noo!"
+		],
+		"idyllic": ["https://media.giphy.com/media/3o6ZteSq6fzBKTz26I/giphy.gif",
+			"If you describe something as idyllic, you mean that it is extremely pleasant, simple, and peaceful without any difficulties or dangers",
+			"The love between dog and man is idyllic, dogs were never expelled from paradise",
+			"Definately YESSSS"
+		],
+		"whimsical": ["https://media.giphy.com/media/L0rJdUJeC71pEQbK85/giphy-downsized-large.gif",
+			"Spontaneously fanciful or playful; Given to whims; Capricious; Quaint, unusual; Fantastic.",
+			"Look after the senses and the sounds will look after themselves",
+			"Sometimes YESSSS"
+		],
+		"sad": ["https://media.giphy.com/media/dJYoOVAWf2QkU/giphy.gif",
+			"Sadness is an emotional pain associated with, or characterized by, feelings of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow. An individual experiencing sadness may become quiet or lethargic, and withdraw themselves from others",
+			"Sadness flies away on the wings of time",
+			"HELL Noo! But that's ok"
+		],
+		"miserable": ["https://media.giphy.com/media/h6auNnuCZRQYEuLZHK/giphy.gif",
+			"an angry or irritable state of mind",
+			"You know sometimes when you're in a really bad mood and you're not sure why? That's how I get sometimes",
+			"HELL Noo!"
+		],
+		"romantic": ["https://media.giphy.com/media/H41v9q94G08FTSuXqX/giphy.gif",
+			"Relating to, imbued with, or characterized by romance; Evoking or given to thoughts and feelings of love, especially idealized or sentimental love",
+			"The best thing to hold onto in life is each other",
+			"Sometimes YESSSS!"
+		]
+
+	}
+}
